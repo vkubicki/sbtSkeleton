@@ -1,6 +1,7 @@
 .cache-main
 .cache-tests
 .classpath
+.idea
 .project
 .settings
 /bin/
